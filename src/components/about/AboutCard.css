@@ -1,0 +1,42 @@
+.aboutCard {
+    margin: 25px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+}
+.aboutCard_Left {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 170px;
+    
+}
+.aboutCard_Left> img {
+    width: 175px;
+}
+.aboutCard_LeftConnection {
+    padding: 5px;
+}
+ .aboutCard_Right {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 230px;
+    align-items: center;
+}
+.aboutCard_RightP {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    overflow: scroll;
+    text-overflow: ellipsis;
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+.aboutCard_RightP::-webkit-scrollbar {
+    display: none;
+}
+.aboutCard_RightEmail {
+    width: 225px;
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "imgURL": "https://lh3.googleusercontent.com/a-/AOh14Gjph7tV_ZPR6vEaqKdBlSmUCdMTeCCcK6Z5T4PqnA=s360-p-rw-no",
+        "name": "Rawnak Siddique",
+        "position": "champ",
+        "aboutMe": "I am Front-end JavaScript developer and my expertise is focused on Reactjs and MERN Full Stack web developer.I have created dynamic web site by creating clones of actual web application. I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning; a person who is trustworthy, responsible, respects deadlines and knows that customer’s satisfaction is the key to success.",
+        "gitHub": "https://github.com/Rawnak-Siddique",
+        "linkedIn": "https://www.linkedin.com/in/rawnak-siddique-6597841b1/",
+        "gMail": "rawnak27sium1995siddique@gmail.com",
+        "fb": "https://www.facebook.com/profile.php?id=100011153193828"
+    },
+    {
+        "id": "2",
+        "imgURL": "https://lh3.googleusercontent.com/a-/AOh14Gjph7tV_ZPR6vEaqKdBlSmUCdMTeCCcK6Z5T4PqnA=s360-p-rw-no",
+        "name": "Rawnak Siddique",
+        "position": "champ",
+        "aboutMe": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "gitHub": "https://github.com/Rawnak-Siddique",
+        "linkedIn": "https://www.linkedin.com/in/rawnak-siddique-6597841b1/",
+        "gMail": "rawnak27sium1995siddique@gmail.com",
+        "fb": "https://www.facebook.com/profile.php?id=100011153193828"
+    }
+]
