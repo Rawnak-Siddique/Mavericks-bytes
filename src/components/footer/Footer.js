@@ -12,21 +12,10 @@ const Footer = () => {
         <p>MAVERICKS BYTE ©</p>
         <p>Notice of Privacy Practices</p>
         </div>
-        <div className="footer_Col">
-        <p id="padBtm">For loren lipson</p>
-        <p>Pay My Bill</p>
-        <p>Find a develope</p>
-        <p>Find a Location</p>
-        <p>Patient Portal</p>
-        <p>OMC</p>
-        <p id="padBtm">MCMC</p>
-        <p>Terms of Use</p>
-        </div>
       <div className="footer_Col">
         <p id="padBtm">About MAVERICKS BYTE</p>
         <p>About Us</p>
-        <p>For Physicians</p>
-        <p>For Physicians</p>
+        <p>Find a develope</p>
         <p>Volunteer</p>
         <p id="padBtm">Community Support</p>
         <p>Notice of NonDiscrimination</p>
@@ -35,6 +24,7 @@ const Footer = () => {
           <p id="padBtm">Contact Info</p>
           <p>Contact Us</p>
           <p>01308370330</p>
+          <p>Terms of Use</p>
           <div id="padBtm" className="footer_ColImg">
               <img src={fb} alt="" />
               <img src={tw} alt="" />

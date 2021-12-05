@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     padding: 10px;
-    color: #39FF14;
+    color: #86B049;
 }
 .aboutCard_Img {
     width: 100%;
@@ -12,16 +12,15 @@
     padding: 10px;
 }
 .aboutCard_Img>img {
-    width: 130px;
+    width: 155px;
     margin: 10px;
-    margin-left: 20px;
 }
 .aboutCard_Info {
     width: 85%;
     height: 350px;
-    padding: 10px;
+    padding: 20px;
     padding-right: 20px;
-    padding-left: 125px;
+    padding-left: 140px;
 }
 .aboutCard_Info>h3 {
     margin-bottom: 10px;

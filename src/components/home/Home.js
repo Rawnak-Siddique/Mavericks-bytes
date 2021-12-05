@@ -10,12 +10,12 @@ const Home = () => {
   return (
     <div className="home" >
       <div className="hone_Info">
-        <h2 className="home_First" >Welcome to</h2>
+        <h1 className="home_First" >Welcome to</h1>
         <h1 className="tracking-in-contract-bck-bottom" ><span className="home_First" >Mavericks</span><span className="home_Second">.Bytes()</span></h1>
         <div className="hone_InfoSmall">
-          <h6 className="home_First">Creative Full-stack <span className="home_Second">Developers</span>, React.js <span className="home_Second">Developer</span></h6>
-          <h6 className="home_First"> MERN-stack <span className="home_Second">Developer</span>, Interface <span className="home_Second">Designers</span></h6>
-          <h6 className="home_First"> Graphics <span className="home_Second">Designers</span>, WordPress <span className="home_Second">Developer, SEO</span></h6>
+          <h4 className="home_First">Creative Full-stack <span className="home_Second">Developers</span>, React.js <span className="home_Second">Developer</span></h4>
+          <h4 className="home_First"> MERN-stack <span className="home_Second">Developer</span>, Interface <span className="home_Second">Designers</span></h4>
+          <h4 className="home_First"> Graphics <span className="home_Second">Designers</span>, WordPress <span className="home_Second">Developer, SEO</span></h4>
         </div>
       </div>
       <div className="home_Content">
