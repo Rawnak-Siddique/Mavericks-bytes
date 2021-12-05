@@ -1,42 +1,34 @@
 .aboutCard {
-    margin: 25px;
-    width: 400px;
-    height: 300px;
-    display: flex;
-}
-.aboutCard_Left {
+    width: 92vw;
+    height: 500px;
     display: flex;
     flex-direction: column;
-    height: 300px;
-    width: 170px;
-    
-}
-.aboutCard_Left> img {
-    width: 175px;
-}
-.aboutCard_LeftConnection {
-    padding: 5px;
-}
- .aboutCard_Right {
-    display: flex;
-    flex-direction: column;
-    height: 300px;
-    width: 230px;
-    align-items: center;
-}
-.aboutCard_RightP {
-    width: 200px;
-    margin: 10px;
     padding: 10px;
-    overflow: scroll;
-    text-overflow: ellipsis;
-    /* Hide scrollbar for IE, Edge and Firefox */
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+    color: #39FF14;
 }
-.aboutCard_RightP::-webkit-scrollbar {
-    display: none;
+.aboutCard_Img {
+    width: 100%;
+    height: 130px;
+    padding: 10px;
 }
-.aboutCard_RightEmail {
-    width: 225px;
+.aboutCard_Img>img {
+    width: 130px;
+    margin: 10px;
+    margin-left: 20px;
+}
+.aboutCard_Info {
+    width: 85%;
+    height: 350px;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 125px;
+}
+.aboutCard_Info>h3 {
+    margin-bottom: 10px;
+}
+.aboutCard_Info>p {
+    padding-left: 30px;
+}
+.aboutCard_InfoLink {
+    cursor: pointer;
 }

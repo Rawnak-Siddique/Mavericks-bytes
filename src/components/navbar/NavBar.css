@@ -1,12 +1,18 @@
 .nav {
-    width: 100vw;
+    width: auto;
+    height: 70px;
+
     display: flex;
     justify-content: space-between;
-    height: 70px;
+    align-items: center;
+    
     padding: 10px;
     padding-left: 15px;
     position: sticky;
     top: 0;
+
+    /* background color */
+    background-color: #000;
 }
 .nav_Right {
     display: flex;
@@ -15,12 +21,16 @@
 }
 .nav_RightText {
     margin: 5px;
+    font-weight: 200;
 }
 .nav_Link {
     text-decoration: none;
-    color: #000;
+    color: #39FF14;
+    background-color: #000;
+    padding: 10px;
 }
 .nav_Link:hover {
-    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
-    color: #444444;background: #FFFFFF;
+    color: rgba(6, 221, 6, 0.7);
+    background: #000;
+    font-size: 20px;
 }

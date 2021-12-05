@@ -1,10 +1,10 @@
 .about {
     width: 100vw;
-    height: 90vh;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+    height: 100vh;
+    padding: 10px;
+    background-color: black;
     overflow: scroll;
+    scroll-behavior: smooth;
     /* Hide scrollbar for IE, Edge and Firefox */
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
@@ -12,16 +12,21 @@
 .about::-webkit-scrollbar {
     display: none;
 }
+.about_Team::-webkit-scrollbar {
+    display: none;
+}
 .about_Team {
-    margin: 25px;
     width: 100vw;
-    height: 80vh;
+    height: 550px;
+    padding: 15px;
+    padding-left: 70px;
     display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    /*text-align: center;*/
     overflow: scroll;
+    scroll-behavior: smooth;
     /* Hide scrollbar for IE, Edge and Firefox */
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
-}
-.about_Team::-webkit-scrollbar {
-    display: none;
 }

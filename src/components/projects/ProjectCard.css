@@ -1,0 +1,38 @@
+.projectCard {
+    color: #39FF14;
+    margin: 10px;
+    margin-left: 80px;
+    width: 85vw;
+    height: 320px;
+    display: flex;
+}
+.projectCard:hover {
+    cursor: pointer;
+}
+.projectCard_Icon {
+    display: flex;
+    justify-content: center;
+    width: 60px;
+    height: 290px;
+    padding: 10px;
+    padding-top: 20px;
+}
+.projectCard_Icon>img {
+    width: 40px;
+    height: 40px;
+}
+.projectCard_Info {
+    width: 100%;
+    padding: 20px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.projectCard_Info>h6 {
+    padding: 1px;
+    padding-left: 30px;
+}
+.projectCard_InfoSpan {
+    font-size: 15px;
+}

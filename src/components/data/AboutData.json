@@ -1,24 +1,60 @@
 [
     {
         "id": "1",
-        "imgURL": "https://lh3.googleusercontent.com/a-/AOh14Gjph7tV_ZPR6vEaqKdBlSmUCdMTeCCcK6Z5T4PqnA=s360-p-rw-no",
-        "name": "Rawnak Siddique",
-        "position": "champ",
-        "aboutMe": "I am Front-end JavaScript developer and my expertise is focused on Reactjs and MERN Full Stack web developer.I have created dynamic web site by creating clones of actual web application. I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning; a person who is trustworthy, responsible, respects deadlines and knows that customer’s satisfaction is the key to success.",
-        "gitHub": "https://github.com/Rawnak-Siddique",
-        "linkedIn": "https://www.linkedin.com/in/rawnak-siddique-6597841b1/",
-        "gMail": "rawnak27sium1995siddique@gmail.com",
-        "fb": "https://www.facebook.com/profile.php?id=100011153193828"
+        "Img": "https://firebasestorage.googleapis.com/v0/b/food-shop-55141.appspot.com/o/files%2F_MG_2417.png?alt=media&amp;token=aaf44fc2-c9cd-408c-9bf7-772c5174f169",
+        "name": "Gibson Modhu Eric",
+        "position": "Chief executive officer",
+        "initial": "CEO",
+        "aboutMe": "Although I am a new and fresh candidate in this field, I know how to mug up the new terms in this field.  I will learn the innovative concepts. I can think of some structures in my mind for making things effective.",
+        "gitHub": "https://linktr.ee/Gibson.Modhu.Eric",
+        "linkedIn": "https://linktr.ee/Gibson.Modhu.Eric",
+        "gMail": "rawnak27sium1995siddique@gmail.com"
     },
     {
         "id": "2",
-        "imgURL": "https://lh3.googleusercontent.com/a-/AOh14Gjph7tV_ZPR6vEaqKdBlSmUCdMTeCCcK6Z5T4PqnA=s360-p-rw-no",
+        "Img": "https://firebasestorage.googleapis.com/v0/b/food-shop-55141.appspot.com/o/files%2F260752077_488499349135526_910527919096232246_n.png?alt=media&amp;token=d36dae09-ad9f-4a97-b24a-bfe3dd62a951",
         "name": "Rawnak Siddique",
-        "position": "champ",
-        "aboutMe": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "position": "Chief technology officer",
+        "initial": "CTO",
+        "aboutMe": "I am Front-end JavaScript developer and my expertise is focused on Reactjs and MERN Full Stack web developer.I have created dynamic web site by creating clones of actual web application. I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning; a person who is trustworthy, responsible, respects deadlines and knows that customer’s satisfaction is the key to success.",
         "gitHub": "https://github.com/Rawnak-Siddique",
         "linkedIn": "https://www.linkedin.com/in/rawnak-siddique-6597841b1/",
-        "gMail": "rawnak27sium1995siddique@gmail.com",
-        "fb": "https://www.facebook.com/profile.php?id=100011153193828"
+        "gMail": "rawnak.mavericksbytes@gmail.com"
+    },
+
+    {
+        "id": "3",
+        "Img": "https://firebasestorage.googleapis.com/v0/b/food-shop-55141.appspot.com/o/files%2Fj.png?alt=media&amp;token=ea71d31f-f0d9-45d7-a633-dc1a98e09db1",
+        "name": "Cornelius Sunit Sarkar",
+        "position": "Chief operating officer",
+        "initial": "COO",
+        "aboutMe": "Front-End Web Developer - Skills on HTML, CSS, Javascript",
+        "gitHub": "https://github.com/SunitCorneleous",
+        "linkedIn": "https://www.linkedin.com/in/sunit-corneleous-502935206/",
+        "gMail": "sunit.mavericksbytes@gmail.com"
+    },
+
+    {
+        "id": "4",
+        "Img": "https://firebasestorage.googleapis.com/v0/b/food-shop-55141.appspot.com/o/files%2F261741124_226226096252532_9111392066262648612_nx.png?alt=media&amp;token=d4fd7c55-4f8f-4851-82ba-9acfe65aa8e7",
+        "name": "Anita Ferdous",
+        "position": "Chief Graphics and Interface Designer",
+        "initial": "CGID",
+        "aboutMe": "I am UI/UX & Graphics Designer and my expertise is focused on o create user-friendly interfaces that enable us ers to understand how to use complex technical products .MY skills are:Interaction design principles, Branding, typography and color theory.Wireframing and prototyping,Style guides,User research and personas.Teamwork and communication skills. Key industry tools, including Sketch.",
+        "gitHub": "https://www.behance.net/anitaferdous",
+        "linkedIn": "https://www.linkedin.com/in/anita-ferdous-976707147/",
+        "gMail": "anita.mavericksbytes@gmail.com"
+    },
+
+    {
+        "id": "5",
+        "Img": "https://firebasestorage.googleapis.com/v0/b/food-shop-55141.appspot.com/o/files%2Fa.png?alt=media&amp;token=844e66ce-980a-4a7d-9ecd-0085f59a722e",
+        "name": "Ferdous Rahman Shefa",
+        "position": "Chief information officer",
+        "initial": "CIO",
+        "aboutMe": "Forever curious, thinker and a learner. Enjoys stuff that includes creativity, cooperation or self-improvement. Loves to explore new ideas and think about in detail When it comes to solving a problem. A business enthusiast and an aspiring software engineer. Currently pursuing CS degree with a minor in Business Studies.",
+        "gitHub": "",
+        "linkedIn": " https://www.linkedin.com/in/ferdous-rahman-shefa/",
+        "gMail": "shefa.mavericksbytes@gmail.com"
     }
 ]

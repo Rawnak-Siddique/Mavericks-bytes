@@ -1,0 +1,31 @@
+.footer {
+    background-color: rgb(168, 218, 92);
+    width: 100vw;
+    height: 250px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer_ColImg {
+    padding: 10px;
+}
+.footer_ColImg>img {
+    width: 30px;
+    padding: 5px;
+}
+.footer_Col {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.footer_ColBotm {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+#padBtm {
+    padding-bottom: 30px;
+}
